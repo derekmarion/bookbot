@@ -1,2 +1,2 @@
 # bookbot
-Analyze text and provide summary information
+Analyze text and provide summary information using python
